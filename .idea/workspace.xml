@@ -117,8 +117,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="30" />
-    <option name="y" value="30" />
+    <option name="x" value="63" />
+    <option name="y" value="37" />
     <option name="width" value="1102" />
     <option name="height" value="963" />
   </component>
@@ -352,10 +352,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="19" y="29" width="1102" height="963" extended-state="0" />
+    <frame x="63" y="37" width="1102" height="963" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.35660377" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.35660377" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -370,7 +370,7 @@
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.32900944" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.25762713" side_tool="true" weight="0.4504717" />
       <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49946752" weight="0.32928064" />
-      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.7423729" visible="true" weight="0.3042453" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.7423729" visible="true" weight="0.3042453" />
       <window_info anchor="bottom" id="Android Profiler" order="8" weight="0.32900944" />
       <window_info anchor="bottom" id="Find" order="9" weight="0.32900944" />
       <window_info anchor="bottom" id="Inspection Results" order="10" sideWeight="0.49946752" weight="0.31839624" />
