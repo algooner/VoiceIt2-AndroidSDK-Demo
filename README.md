@@ -9,7 +9,6 @@ A fully comprehensive VoiceItApi2AndroidSDK Demo that gives you access to VoiceI
 * [UI Previews](#ui-previews)
 * [Getting Started](#getting-started)
 * [Installation](#installation)
-* [Strings and Prompts](#strings-and-prompts)
 * [API Calls](#api-calls)
   * [Initialization](#initialization)
   * [Encapsulated Methods](#encapsulated-methods)
@@ -68,34 +67,7 @@ Sign up for a free Developer Account at <a href="https://voiceit.io/signup" targ
 
 ## Installation
 
-VoiceItApi2IosSDK is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod "VoiceItApi2IosSDK"
-```
-
-and then run pod install in your terminal
-
-```bash
-pod install
-```
-
-Also add the following permission keys to your <b>info.plist</b> file like shown below:
-
-* NSCameraUsageDescription - Needed for Face Biometrics
-* NSMicrophoneUsageDescription - Needed for Voice Biometrics
-
-<img src="Graphics/Screenshot2.png" alt="API Key and Token" width="400px" style="margin:auto;display:block"/>
-
-## Strings and Prompts
-
-All strings utilized in the encapsulated views for the SDK and the prompts provided to the user can be modified by editing the strings in the Prompts.strings file located at
-
-```
-Pods/VoiceItApi2IosSDK/Resources/Prompts.strings
-```
-You might have to unlock the Cocoapod to edit the file.
+Download a copy of VoiceItApi2AndroidSDKDemo.zip and unzip to your development folder. Then open inside of Android Studio. Then locate the CHANGEME word locations with your API_KEY and API_TOKEN. Finally, build and deploy to your Android device for learning how to use the VoiceIt Android SDK.
 
 ## API Calls
 
