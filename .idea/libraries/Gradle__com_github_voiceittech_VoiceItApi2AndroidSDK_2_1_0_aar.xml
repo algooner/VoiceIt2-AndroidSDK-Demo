@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.voiceittech:VoiceItApi2AndroidSDK:2.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f173ea5e7632e5473d4aee9499d6e8ec/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f173ea5e7632e5473d4aee9499d6e8ec/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f173ea5e7632e5473d4aee9499d6e8ec/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.voiceittech/VoiceItApi2AndroidSDK/2.1.0/68b6e8639c4d7db42d1fe754c1f8bc221f2afe31/VoiceItApi2AndroidSDK-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
