@@ -10,7 +10,6 @@ A fully comprehensive VoiceItApi2AndroidSDK Demo that gives you access to VoiceI
 * [Getting Started](#getting-started)
 * [Installation](#installation)
 * [API Calls](#api-calls)
-  * [Initialization](#initialization)
   * [Encapsulated Methods](#encapsulated-methods)
       * [Encapsulated Voice Enrollment](#encapsulated-voice-enrollment)
       * [Encapsulated Face Enrollment](#encapsulated-face-enrollment)
@@ -71,49 +70,6 @@ Download a copy of VoiceItApi2AndroidSDKDemo.zip and unzip to your development f
 
 ## API Calls
 
-### Initialization
-
-#### *Swift*
-
-First import *VoiceItApi2IosSDK* in your Swift file then initialize a reference to the SDK inside a ViewController, passing in a reference to the ViewController as the first argument, then the API Credentials, and finally a styles dictionary ( *kThemeColor* can be any hexadecimal color code and *kIconStyle* can be "default" or "monochrome").
-
-```swift
-import VoiceItApi2IosSDK
-
-class ViewController: UIViewController {
-    var myVoiceIt:VoiceItAPITwo?
-
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        /* Reference to ViewController , API Credentials and styles dictionary*/
-        let styles = NSMutableDictionary(dictionary: ["kThemeColor":"#FBC132","kIconStyle":"default"])
-        self.myVoiceIt = VoiceItAPITwo(self, apiKey: "API_KEY_HERE", apiToken: "API_TOKEN_HERE", styles: styles)
-    }
-}
-```
-#### *Objective-C*
-
-First import *VoiceItAPITwo.h* into your Objective-C file, then initialize a reference to the SDK inside a ViewController, passing in a reference to the ViewController as the first argument.
-
-```objc
-#import "ViewController.h"
-#import "VoiceItAPITwo.h"
-
-@interface ViewController ()
-    @property VoiceItAPITwo * myVoiceIt;
-@end
-
-@implementation ViewController
-
-- (void)viewDidLoad {
-    [super viewDidLoad];
-    /* Reference to ViewController , API Credentials and styles dictionary*/
-    NSMutableDictionary * styles = [[NSMutableDictionary alloc] init];
-    [styles setObject:@"#FBC132" forKey:@"kThemeColor"];
-    [styles setObject:@"default" forKey:@"kIconStyle"];
-    self.myVoiceIt = [[VoiceItAPITwo alloc] init:self apiKey:@"API_KEY_HERE" apiToken:@"API_TOKEN_HERE" styles: styles];
-}
-```
 ### Encapsulated Methods
 
 #### Encapsulated Voice Enrollment
