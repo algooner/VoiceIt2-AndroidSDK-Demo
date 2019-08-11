@@ -57,7 +57,7 @@ A fully comprehensive VoiceItApi2AndroidSDK Demo that gives you access to VoiceI
 The following gifs show the UI for Voice Verification, Face Verification (With liveness detection on) and Video Verification (with Liveness turned off), respectively.
 
 <div style="background: #000 !important;">
-  <img width="290px" src="./Graphics/voiceVerification.gif" style="display: inline-block !important"/><img width="290px" src="./Graphics/faceVerification.gif" style="display: inline-block !important;"/><img width="290px" src="https://raw.githubusercontent.com/voiceittech/VoiceItApi2AndroidSDK/master/Graphics/voiceVerification.gif" style="display: inline-block !important;"/>
+  <img width="290px" src="https://raw.githubusercontent.com/voiceittech/VoiceItApi2AndroidSDK/master/Graphics/voiceVerification.gif" style="display: inline-block !important"/><img width="290px" src="https://raw.githubusercontent.com/voiceittech/VoiceItApi2AndroidSDK/master/Graphics/faceVerification.gif" style="display: inline-block !important;"/><img width="290px" src="https://raw.githubusercontent.com/voiceittech/VoiceItApi2AndroidSDK/master/Graphics/videoVerification.gif" style="display: inline-block !important;"/>
 </div>
 
 ## Getting Started
