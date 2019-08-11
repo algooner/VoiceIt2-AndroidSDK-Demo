@@ -64,7 +64,7 @@ The following gifs show the UI for Voice Verification, Face Verification (With l
 
 Sign up for a free Developer Account at <a href="https://voiceit.io/signup" target="_blank">VoiceIt.io</a> and view your API Key and Token in the settings page (as shown below). You can also review the HTTP Documentation at <a href="https://api.voiceit.io" target="_blank">api.voiceit.io</a>.
 
-<img src="./Graphics/getcredentials.png" alt="API Key and Token" width="400px" />
+<img src="https://raw.githubusercontent.com/voiceittech/VoiceItApi2AndroidSDK/master/Graphics/getcredentials.png" alt="API Key and Token" width="400px" />
 
 ## Installation
 
