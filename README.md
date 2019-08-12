@@ -66,7 +66,7 @@ Sign up for a free Developer Account at <a href="https://voiceit.io/signup" targ
 
 ## Installation
 
-Download a copy of VoiceItApi2AndroidSDKDemo.zip and unzip to your development folder. Then open inside of Android Studio. Then locate the CHANGEME word locations with your API_KEY and API_TOKEN. Finally, build and deploy to your Android device for learning how to use the VoiceIt Android SDK.
+Download a copy of VoiceItApi2AndroidSDKDemo.zip then unzip to your development folder. Then open inside of Android Studio. Then locate the CHANGEME word locations and replace with your API_KEY and API_TOKEN. Finally, build and deploy to your Android device for learning how to use the VoiceIt Android SDK.
 
 ## API Calls
 
